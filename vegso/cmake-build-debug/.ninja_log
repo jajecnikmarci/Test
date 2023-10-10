@@ -1,0 +1,6 @@
+# ninja log v5
+2	211	1696965288808890929	CMakeFiles/YourProjectName.dir/memtrace.cpp.o	ad38311d4c39a12a
+1	1476	1696965290067862795	CMakeFiles/YourProjectName.dir/date.cpp.o	c11acd819f6e7c70
+1	1490	1696965290083544244	CMakeFiles/YourProjectName.dir/clients.cpp.o	45be58be2d879299
+2	1623	1696965290217430961	CMakeFiles/YourProjectName.dir/MVM.cpp.o	8df61148d151883
+3	1669	1696965290265088256	CMakeFiles/YourProjectName.dir/Test.cpp.o	db899c6a1490d3ba
