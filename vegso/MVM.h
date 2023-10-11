@@ -16,6 +16,7 @@ class Client;
 class Company;
 enum class ContractType;
 
+
 /**
  * @brief Ügyfeleket tároló class.
  * @param clients Ügyfeleket tároló indexelhető MyVektor
